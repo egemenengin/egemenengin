@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Egemen Engin</h1>
-<h3 align="left">A software developer with a passion for game engines and vide game development</h3>
+<h3 align="left">A software developer with a passion for game engines and video game development</h3>
 
 - 🔭 I’m currently working on [Unreal Engine 5 projects.](https://github.com/egemenengin/Links-To-Projects)
 
