@@ -28,7 +28,3 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
 
-
-
-[![](https://visitcount.itsvg.in/api?id=egemenengin&icon=0&color=0)](https://visitcount.itsvg.in)
-
