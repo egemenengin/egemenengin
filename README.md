@@ -2,11 +2,11 @@
 <h3 align="left">A software developer with a passion for game engines and video game development</h3>
 
 # 💫 About Me:
-- 🔭 I’m currently working on [Unreal Engine 5 projects.](https://github.com/egemenengin/Links-To-Projects)
+- 🔭 I’m currently working on Unreal Engine 5 projects.
 
 - 🌱 I’m currently in the process of learning **game engines. I Think, learning process of game engines never ends.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/egemenengin/Links-To-Projects](https://github.com/egemenengin/Links-To-Projects)
+- 👨‍💻 All of my projects are available at [Projects Page.](https://egemenengin.github.io/Projects/)
 
 - 📫 How to reach me **egemenengin.ee@gmail.com**
 
