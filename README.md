@@ -1,16 +1,16 @@
 <h1 align="left">Hi 👋, I'm Egemen Engin</h1>
-<h3 align="left">A software developer with a passion for game engines and video game development</h3>
+<h3 align="left">Software developer who experienced in designing, developing, and maintaining robust and efficient software solutions. Proficient in object-oriented programming and software development methodologies.</h3>
 
 # 💫 About Me:
-- 🔭 I’m currently working on Unreal Engine 5 projects.
-
-- 🌱 I’m currently in the process of learning **game engines. I Think, learning process of game engines never ends.**
+- 🧑🏼‍💼 I’m currently working on at Aselsan as a Software Engineer.
+ 
+- 🎮 Individually, I work on Unreal Engine 5 projects.
 
 - 👨‍💻 All of my projects are available at [Projects Page.](https://egemenengin.github.io/Projects/)
 
-- 📫 How to reach me **egemenengin.ee@gmail.com**
+- 📧 How to reach me **egemenengin.ee@gmail.com**
 
-- ⚡ Interests **I really like playing video games and basketball.**
+- ⚡ My interests are video games, XR, AI, designing and basketball.
 
 
 ## 🌐 Socials:
