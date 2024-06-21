@@ -2,7 +2,7 @@
 <h3 align="left">Software developer who experienced in designing, developing, and maintaining robust and efficient software solutions. Proficient in object-oriented programming and software development methodologies.</h3>
 
 # 💫 About Me:
-- 🧑🏼‍💼 I’m currently working on at Aselsan as a Software Engineer.
+- 🧑🏼‍💼 I’m currently working at Aselsan as a Software Engineer.
  
 - 🎮 Individually, I work on Unreal Engine 5 projects.
 
