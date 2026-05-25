@@ -4,7 +4,7 @@
 # 💫 About Me:
 - 🧑🏼‍💼 I’m currently working at Aselsan as a Software Engineer.
  
-- 🎮 Individually, I work on Unreal Engine 5 projects.
+- 🎮 Individually, I work on AI powered projects and Unreal Engine projects.
 
 - 👨‍💻 All of my projects are available at [Projects Page.](https://egemenengin.github.io/Projects/)
 
